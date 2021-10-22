@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+}
+
+.redText {
+    color: red;
+}
+
+.blueText {
+    color: blue;
+}
+
+.greenText {
+    color: green;
+}
+
+.bigText {
+    font-size: x-large ;
+}
+
+.tinyText {
+    font-size: x-small;
+}
+
+.centeredText {
+    text-align: center;
+}
+
+.boldText {
+    font-weight: bold;
+}
+
+.changeFont {
+    font-family: cursive;
+}
+
+.multiAtt {
+    color: orange;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.styledFont {
+    color: green;
+    font-size: large;
+    font-weight: bold;
+}
+
+img {
+    border: 5px solid orange;
+}
